@@ -20,7 +20,7 @@ wowdaily:
 
 ```bash
 # If you set all configs in site config file:
-jekyll wowdaily # check _data/attendance_lang_region.json
+jekyll wowdaily # check _data/wowdaily_lang_region.json
 
 # If you want to set custom config
 jekyll wowdaily --help
